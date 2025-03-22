@@ -1,6 +1,3 @@
-Voici un modèle de **README.md** pour la partie Arduino de ton projet **arduinoRS**. Ce fichier sera utilisé pour guider les utilisateurs à configurer et utiliser l'Arduino pour le projet **RS - RealScope**.
-
----
 
 # **arduinoRS**  
 ### Arduino Code for RS - RealScope
@@ -106,10 +103,4 @@ Ce projet est sous **licence propriétaire**. Tous les droits sont réservés. A
 
 - **Votre nom ou pseudonyme** : [richardsr020](https://github.com/richardsr020)
 
----
-
-### **Remerciements**
-
-- Merci à la communauté Arduino et Python pour leurs outils et bibliothèques puissants.
-- À tous les contributeurs pour leur soutien.
 
